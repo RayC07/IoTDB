@@ -56,7 +56,7 @@ Luego ejecuta las consultas usando métodos como `find()`, `insert_one()`, `aggr
 
 ---
 
-## 👨‍🎓 Autor
+## Autor
 Ray Cadena González  
 
 
